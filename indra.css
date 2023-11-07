@@ -2,7 +2,7 @@
 .img1{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/gro2.webp);
+    background-image: url(./gro2.webp);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -31,7 +31,7 @@
   .img2{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/gro.png);
+    background-image: url(./gro.png);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -59,7 +59,7 @@
   }.img3{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/grooo.webp);
+    background-image: url(./grooo.webp);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -88,7 +88,7 @@
   .img4{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/gro9.jpg);
+    background-image: url(./gro9.jpg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -117,7 +117,7 @@
   .img5{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/gro7.jpg);
+    background-image: url(./gro7.jpg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -146,7 +146,7 @@
   .img6{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/gr05.jpeg);
+    background-image: url(./gr05.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -176,7 +176,7 @@
   .img7{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/fur.jpg);
+    background-image: url(./fur.jpg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -205,7 +205,7 @@
   .img8{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/fur6.jpeg);
+    background-image: url(./fur6.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -233,7 +233,7 @@
   }.img9{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/fru.jpeg);
+    background-image: url(./fru.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -261,7 +261,7 @@
   }.img10{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/fur4.jpeg);
+    background-image: url(./fur4.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -290,7 +290,7 @@
   .img11{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/fur3.jpeg);
+    background-image: url(./fur3.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -318,7 +318,7 @@
   }.img12{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/fur2.jpeg);
+    background-image: url(./fur2.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -347,7 +347,7 @@
   .img13{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/lapaa.jpg);
+    background-image: url(./lapaa.jpg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -376,7 +376,7 @@
   .img14{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/iphoooo.jpg);
+    background-image: url(./iphoooo.jpg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -404,7 +404,7 @@
   }.img15{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/360\ lap.jpeg);
+    background-image: url(./360\ lap.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -433,7 +433,7 @@
   .img16{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/keyboard.jpeg);
+    background-image: url(./keyboard.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -462,7 +462,7 @@
   .img17{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/lap\ apple.jpeg);
+    background-image: url(./lap\ apple.jpeg);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -490,7 +490,7 @@
   }.img18{
     display: flex;
     flex-direction: column-reverse;
-    background-image: url(./img/ipho1.webp);
+    background-image: url(./ipho1.webp);
     background-size: 350px 270px;
     color: transparent;
     position: relative;
@@ -514,523 +514,4 @@
   .img18:hover .img18con{
     height: 150px;
     color: rgb(0, 0, 0);
-    
-=======
-.img1{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/gro2.webp);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 2%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img1con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img1:hover .img1con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img2{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/gro.png);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    margin-left: 3%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img2con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img2:hover .img2con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }.img3{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/grooo.webp);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 3%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img3con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img3:hover .img3con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img4{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/gro9.jpg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 5%;
-    height: 240px;
-    margin-left: 2%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img4con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img4:hover .img4con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img5{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/gro7.jpg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 5%;
-    height: 240px;
-    margin-left: 3%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img5con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img5:hover .img5con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img6{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/gr05.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 5%;
-    height: 240px;
-    margin-left: 3%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img6con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img6:hover .img6con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
- 
-  .img7{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/fur.jpg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 2%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img7con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img7:hover .img7con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img8{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/fur6.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    margin-left: 3%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img8con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img8:hover .img8con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }.img9{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/fru.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 3%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img9con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img9:hover .img9con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }.img10{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/fur4.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 2%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img10con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img10:hover .img10con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img11{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/fur3.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    margin-left: 3%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img11con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img11:hover .img11con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }.img12{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/fur2.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 3%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img12con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img12:hover .img12con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img13{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/lapaa.jpg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 2%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img13con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img13:hover .img13con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img14{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/iphoooo.jpg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    margin-left: 3%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img14con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img14:hover .img14con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }.img15{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/360\ lap.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 3%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img15con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img15:hover .img15con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img16{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/keyboard.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 2%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img16con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img16:hover .img16con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }
-  .img17{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/lap\ apple.jpeg);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    margin-left: 3%;
-    float: left;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img17con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img17:hover .img17con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
-  }.img18{
-    display: flex;
-    flex-direction: column-reverse;
-    background-image: url(./img/ipho1.webp);
-    background-size: 350px 270px;
-    color: transparent;
-    position: relative;
-    top: 7%;
-    height: 240px;
-    float: left;
-    margin-left: 3%;
-    width: 330px;
-    background-repeat: no-repeat;
-    
-  }
-  .img18con{
-    width: 350px;
-    height: 0;
-    opacity: 0.6;
-    background-color: #e6e6e6;
-    color: transparent;
-    transition: height 200ms , color 300ms;
-    border-radius: 20px 20px 0px 0px;
-  }
-  .img18:hover .img18con{
-    height: 150px;
-    color: rgb(0, 0, 0);
-    
->>>>>>> 8df2ed5e35d7f55252ba27977ec6a32abe2ed68a
   }
